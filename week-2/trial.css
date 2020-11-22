@@ -101,42 +101,7 @@ Experiment with deleting lines of code from the CSS to see how it affects the we
     background-size: cover;
 
   }
-/*
-.hero-image2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("luma-pimentel-1vnB2l7j3bY-unsplash.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 
-  }
-
-.hero-image3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("sergio-souza-NYuUoKjJR-c-unsplash.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-  }
-
-.hero-image4 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("filip-mroz-oko_4WnoM98-unsplash.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-  }
-
-.hero-image5 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("bill-stephan-9LkqymZFLrE-unsplash.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-  }*/
   
 
   .hero-text {
