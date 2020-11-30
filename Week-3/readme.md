@@ -17,3 +17,11 @@ for the 3rd attempt, I tried to create pass the variables into the function usin
 for the 4th attempt, I combined both the functions into a single function sitting outside the if/else logic. The password is printed out in the console.log.
 
 for the 5th attempt, I created an alert window to print the password along with the console.log
+
+for the 6th attempt, I moved the function outside of the javascript file. I had to take help from the TA as this wasn't working for me initially as I was trying to reference the src and type in the same script tag. 
+// incorrect way to call script and text    
+    <script type="text/javascript"src="./passwordGenerator.js"></script>
+
+// correct way to call 
+    <script src="./passwordGenerator.js"></script>
+    <script type="text/javascript">
